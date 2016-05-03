@@ -1,4 +1,4 @@
-// a hexdumper by Aaron Kondziela
+// a hexdumper by Aaron Kondziela <aaron@aaronkondziela.com>
 
 #include <stdio.h>
 
